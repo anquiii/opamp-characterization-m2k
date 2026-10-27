@@ -1,0 +1,4 @@
+numpy
+matplotlib
+# libm2k: install with pip, or with ADI's libm2k installer if pip fails on your OS
+libm2k
